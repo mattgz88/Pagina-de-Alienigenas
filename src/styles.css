@@ -1,0 +1,45 @@
+.principal {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  background-image: url("https://cdn.inprnt.com/thumbs/ca/d1/cad1ba87bb7c761834ac33ee9ef38132.jpg?response-cache-control=max-age=2628000");
+  background-size: 100%;
+  border-radius: 20px;
+  border: 10px outset #ffb8bf;
+}
+
+.avatars {
+  width: 200px;
+  height: 200px;
+  background-color: #ffb8bf;
+  background-size: 50%;
+  border-radius: 100px;
+  border: 4px double white;
+}
+.name {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  letter-spacing: -0.4px;
+  word-spacing: 0.2px;
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+body {
+  background-image: url("https://st2.depositphotos.com/46898394/44971/v/950/depositphotos_449711260-stock-illustration-vector-bit-game-style-cute.jpg?forcejpeg=true");
+  background-size: 30%;
+}
+.englobar {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+
+  letter-spacing: -0.4px;
+  word-spacing: 0.2px;
+  color: rgb(255, 12, 186);
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
